@@ -324,3 +324,7 @@ function go(id,el){
   el.classList.add('active');
 }
 </script>
+
+## AI Integration
+- **GPT-5.6 API**: Powers real-time speaking feedback, grammar correction, and dynamic RPG quest generation based on user proficiency.
+- **Codex**: Used to auto-generate personalized vocabulary quizzes and parse user error patterns for adaptive difficulty adjustment.
